@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202432440971",
+    "project_id": "b4u-app",
+    "storage_bucket": "b4u-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202432440971:android:ec608faf128ae261c3c28e",
+        "android_client_info": {
+          "package_name": "com.talha.bus4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202432440971-8cm5rjhtf7mk2vbftnc9g84939d8kh2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-EkqIYRc4tPYKI9yNqk4aFIf05IAa_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202432440971-8cm5rjhtf7mk2vbftnc9g84939d8kh2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
